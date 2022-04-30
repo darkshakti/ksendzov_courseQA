@@ -1,0 +1,19 @@
+ 
+    {
+        firstName: 'John',
+        lastName: 'Caper',
+        phone: '7436676737634',
+        registrationDate: '12.10.2021'
+    },
+    {
+        firstName: 'Clark',
+        lastName: 'Kent',
+        phone: '4346676737634',
+        registrationDate: '16.09.2021'
+    },
+    {
+        firstName: 'Tony',
+        lastName: 'Stark',
+        phone: '7436698337634',
+        registrationDate: '11.10.2021'
+    }
